@@ -6,10 +6,7 @@ import lombok.*;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-/**
- * Product entity representing a product in the inventory.
- * This entity is mapped to the 'products' table in the database.
- */
+
 @Entity
 @Table(name = "products")
 @Data
