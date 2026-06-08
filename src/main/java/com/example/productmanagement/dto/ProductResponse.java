@@ -5,9 +5,7 @@ import lombok.*;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-/**
- * DTO for returning product information to the client.
- */
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
