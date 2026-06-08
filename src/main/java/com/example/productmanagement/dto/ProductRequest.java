@@ -5,10 +5,6 @@ import lombok.*;
 
 import java.math.BigDecimal;
 
-/**
- * DTO for creating or updating a product.
- * Contains validation annotations to ensure data integrity.
- */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
